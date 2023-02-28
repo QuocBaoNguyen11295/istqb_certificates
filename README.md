@@ -1,4 +1,4 @@
-# istqb certificates
+# ISTQB certificates
 ```
 - ISTQB CTFL Certificate
 - ISTQB CTFL Agile Tester Certificate
