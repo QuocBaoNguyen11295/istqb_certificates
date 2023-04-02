@@ -4,4 +4,5 @@
 - ISTQB CTFL Agile Tester Certificate
 - ISTQB CTFL Mobile Application Tester Certificate
 - ISTQB CTAL Agile Technical Tester Certificate
+- ISTQB CTFL Acceptance Tester Certificate
 ```
