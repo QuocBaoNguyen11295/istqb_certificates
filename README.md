@@ -6,4 +6,5 @@
 - ISTQB CTAL Agile Technical Tester Certificate
 - ISTQB CTFL Acceptance Tester Certificate
 - ISTQB CTAL Test Automation Engineer Certificate
+- ISTQB CTAL Technical Test Analyst Certificate
 ```
